@@ -1,0 +1,94 @@
+location_id,ext_loc_id,type,name,latitude,longitude
+Home-AnnapolisJunction136,136,1,1StopShop - Annapolis Junction #136,39.1266204,-76.7985617
+Home-Atlanta127,127,1,1StopShop - Atlanta #127,33.9253056,-84.3857385
+Home-Atlanta128,128,1,1StopShop - Atlanta #128,33.7569959,-84.3919994
+Home-BalaCynwyd174,174,1,1StopShop - Bala Cynwyd #174,40.0087717,-75.2195213
+Home-Bellevue188,188,1,1StopShop - Bellevue #188,47.6140209,-122.1965423
+Home-BlueAsh165,165,1,1StopShop - Blue Ash #165,39.2320069,-84.3782717
+Home-Boise129,129,1,1StopShop - Boise #129,43.6122012,-116.2006519
+Home-Boston138,138,1,1StopShop - Boston #138,42.3548622,-71.0661126
+Home-Bozeman145,145,1,1StopShop - Bozeman #145,45.6589496,-111.0218758
+Home-Bozeman148,148,1,1StopShop - Bozeman #148,45.6589507,-111.0218803
+Home-Bridgewater151,151,1,1StopShop - Bridgewater #151,40.5971529,-74.6283276
+Home-Broomfield115,115,1,1StopShop - Broomfield #115,39.8925234,-105.1141932
+Home-Burlington139,139,1,1StopShop - Burlington #139,42.4806828,-71.1994803
+Home-Charlotte163,163,1,1StopShop - Charlotte #163,35.0585037,-80.8539892
+Home-Chesterfield144,144,1,1StopShop - Chesterfield #144,38.6454675,-90.5103007
+Home-Cincinnati166,166,1,1StopShop - Cincinnati #166,39.1105581,-84.5169899
+Home-ColoradoSprings116,116,1,1StopShop - Colorado Springs #116,39.0103361,-104.8188696
+Home-Columbia137,137,1,1StopShop - Columbia #137,39.1666616,-76.8117010
+Home-FortLauderdale120,120,1,1StopShop - Fort Lauderdale #120,26.1889286,-80.1763435
+Home-Frisco184,184,1,1StopShop - Frisco #184,33.1083344,-96.8202753
+Home-GlenAllen187,187,1,1StopShop - Glen Allen #187,37.6659833,-77.5063697
+Home-Harrisburg175,175,1,1StopShop - Harrisburg #175,40.2626711,-76.8861261
+Home-Hillsboro172,172,1,1StopShop - Hillsboro #172,45.5444690,-122.8967964
+Home-Hillsboro173,173,1,1StopShop - Hillsboro #173,45.5435880,-122.8943933
+Home-Houston183,183,1,1StopShop - Houston #183,29.7566496,-95.3708566
+Home-Jacksonville121,121,1,1StopShop - Jacksonville #121,30.2374234,-81.5435681
+Home-KingofPrussia176,176,1,1StopShop - King of Prussia #176,40.1012928,-75.3835496
+Home-LibertyCorner153,153,1,1StopShop - Liberty Corner #153,40.6651999,-74.5785908
+Home-Miami122,122,1,1StopShop - Miami #122,25.7786504,-80.2962348
+Home-Minneapolis143,143,1,1StopShop - Minneapolis #143,44.9736758,-93.2718777
+Home-Monrovia108,108,1,1StopShop - Monrovia #108,34.1430465,-117.9872008
+Home-Nashua150,150,1,1StopShop - Nashua #150,42.7093991,-71.4596004
+Home-Omaha149,149,1,1StopShop - Omaha #149,41.2679332,-96.0932397
+Home-Phoenix100,100,1,1StopShop - Phoenix #100,33.5071977,-112.0318559
+Home-Pleasanton109,109,1,1StopShop - Pleasanton #109,37.6624386,-121.8746761
+Home-Portland171,171,1,1StopShop - Portland #171,45.5152258,-122.6799438
+Home-Raleigh164,164,1,1StopShop - Raleigh #164,35.9021775,-78.7810192
+Home-Rochester161,161,1,1StopShop - Rochester #161,43.1528877,-77.5046027
+Home-Rocklin110,110,1,1StopShop - Rocklin #110,38.8174895,-121.2860614
+Home-Rutherford152,152,1,1StopShop - Rutherford #152,40.8136818,-74.0828776
+Home-SanAntonio185,185,1,1StopShop - San Antonio #185,29.5666030,-98.4812067
+Home-SanDiego111,111,1,1StopShop - San Diego #111,32.5523848,-117.0393769
+Home-SanDiego112,112,1,1StopShop - San Diego #112,32.5523875,-117.0393813
+Home-Sandy186,186,1,1StopShop - Sandy #186,40.5818461,-111.8876983
+Home-SanFrancisco113,113,1,1StopShop - San Francisco #113,37.7959400,-122.3999985
+Home-SantaClara114,114,1,1StopShop - Santa Clara #114,37.4128684,-121.9784918
+Home-Tarrytown162,162,1,1StopShop - Tarrytown #162,41.0610269,-73.8393601
+Home-Washington189,189,1,1StopShop - Washington #189,38.9028858,-77.0342340
+Home-Washington190,190,1,1StopShop - Washington #190,38.9044084,-77.0429122
+Store-Albany157,157,1,1StopShop -  Albany #157,42.6837400,-73.7712373
+Store-Albuquerque156,156,1,1StopShop -  Albuquerque #156,35.1006083,-106.5707517
+Store-Austin180,180,1,1StopShop -  Austin #180,30.4013588,-97.7525318
+Store-Austin181,181,1,1StopShop -  Austin #181,30.4309210,-97.7305286
+Store-Bloomington142,142,1,1StopShop -  Bloomington #142,44.8251167,-93.3439209
+Store-Bozeman146,146,1,1StopShop -  Bozeman #146,45.6834608,-111.0504935
+Store-Bozeman147,147,1,1StopShop -  Bozeman #147,45.6589504,-111.0218765
+Store-Brookfield191,191,1,1StopShop -  Brookfield #191,43.0291674,-88.0852854
+Store-Burlington140,140,1,1StopShop -  Burlington #140,42.4814145,-71.2008223
+Store-Chicago130,130,1,1StopShop -  Chicago #130,41.8817836,-87.6371410
+Store-Chicago131,131,1,1StopShop -  Chicago #131,41.8925103,-87.6161637
+Store-Columbus168,168,1,1StopShop -  Columbus #168,39.9517835,-82.9997071
+Store-Conshohocken178,178,1,1StopShop -  Conshohocken #178,40.0698381,-75.3162864
+Store-Cordova179,179,1,1StopShop -  Cordova #179,35.1307223,-89.7960048
+Store-Corvallis170,170,1,1StopShop -  Corvallis #170,44.5912961,-123.2777365
+Store-CulverCity102,102,1,1StopShop -  Culver City #102,33.9872536,-118.3857182
+Store-Denver117,117,1,1StopShop -  Denver #117,39.6318554,-104.8999046
+Store-Denver118,118,1,1StopShop -  Denver #118,39.6324339,-104.9007110
+Store-ElSegundo103,103,1,1StopShop -  El Segundo #103,33.9182431,-118.3958145
+Store-Encino104,104,1,1StopShop -  Encino #104,34.1548005,-118.4765695
+Store-Fairborn169,169,1,1StopShop -  Fairborn #169,39.7753211,-84.0598214
+Store-Fullerton105,105,1,1StopShop -  Fullerton #105,33.8659098,-117.8911854
+Store-Independence167,167,1,1StopShop -  Independence #167,41.3933710,-81.6545671
+Store-Indianapolis133,133,1,1StopShop -  Indianapolis #133,39.9142684,-86.2195417
+Store-Irvine107,107,1,1StopShop -  Irvine #107,33.6828144,-117.8498266
+Store-Irving182,182,1,1StopShop -  Irving #182,32.8958888,-96.9693627
+Store-Itasca132,132,1,1StopShop -  Itasca #132,41.9750349,-88.0072884
+Store-Lexington135,135,1,1StopShop -  Lexington #135,38.0187954,-84.5513194
+Store-Mineola160,160,1,1StopShop -  Mineola #160,40.7381959,-73.6453244
+Store-MoonTownship177,177,1,1StopShop -  Moon Township #177,40.5024461,-80.2020308
+Store-MtLaurel154,154,1,1StopShop -  Mt Laurel #154,39.9449122,-74.9506541
+Store-NewYork158,158,1,1StopShop -  New York #158,40.7519874,-73.9697762
+Store-NewYork159,159,1,1StopShop -  New York #159,40.7593977,-73.9697743
+Store-Onalaska192,192,1,1StopShop -  Onalaska #192,43.8836390,-91.2237554
+Store-Orlando123,123,1,1StopShop -  Orlando #123,28.4576381,-81.3036554
+Store-OverlandPark134,134,1,1StopShop -  Overland Park #134,38.9329861,-94.6917779
+Store-Princeton155,155,1,1StopShop -  Princeton #155,40.3731125,-74.8857941
+Store-RedwoodShores106,106,1,1StopShop -  Redwood Shores #106,37.5364151,-122.2455331
+Store-Stamford119,119,1,1StopShop -  Stamford #119,41.0997245,-73.5647921
+Store-Sunrise124,124,1,1StopShop -  Sunrise #124,26.1512565,-80.3101665
+Store-Tallahassee125,125,1,1StopShop -  Tallahassee #125,30.4734830,-84.2377524
+Store-Tampa126,126,1,1StopShop -  Tampa #126,27.9630267,-82.5704705
+Store-Troy141,141,1,1StopShop -  Troy #141,42.5620915,-83.1936404
+Store-Tucson101,101,1,1StopShop -  Tucson #101,32.2453677,-110.9538288
