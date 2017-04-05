@@ -1,7 +1,7 @@
 require 'csv'
 require 'json'
 require 'mongo'
-include Mongo
+include  Mongo
 
 FILENAME="dcs_location.csv"
 
@@ -14,15 +14,26 @@ headers = HEADER.map {|i| i.to_s }
 string_data = csv_data.map {|row| row.map {|cell| cell.to_s } }
 array_of_hashes = string_data.map {|row| Hash[*headers.zip(row).flatten] }
 
+#////////////////////////////////////////////////////////////////////////////////
 # Instantiate a new cleinet
-mongo_client= Mongo::Client.new([ 'localhost:27017', 'localhost:27017' ])
+# mongo_client= Mongo::Client.new([ 'localhost:27017', 'localhost:27017' ])
 
 
 # Instantiate a new database
-mongo_db = Mongo::Database.new(mongo_client, :storefinder)
+# mongo_db = Mongo::Database.new(mongo_client, :storefinder)
 
 # Instantiate a new collection
-mongo_coll=Mongo::Collection.new(mongo_db, 'storelocation')
+# mongo_coll=Mongo::Collection.new(mongo_db, 'storelocation')
+
+#////////////////////////////////////////////////////////////////////////////////
+
+# Use Mongo::Client to establish a connection to a running MongoDB instance.
+
+mongo_client = Mongo::Client.new('mongodb://127.0.0.1:27017/storefinder')
+
+# Access a Database and a Collection
+
+mongo_coll = mongo_client[:storelocation]
 
 
 array_of_hashes.each do |td|
@@ -34,6 +45,3 @@ array_of_hashes.each do |td|
   id = mongo_coll.insert_one(td)
 
 end
-
-
-
